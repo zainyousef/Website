@@ -1,9 +1,9 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://zainweb.netlify.app/"
 title = "Zain Yousef"
 theme = "somrat"
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = [true] # desable language from here
 
 ############################# Plugins ##############################
 
@@ -84,7 +84,7 @@ logo_light = "images/logo.png"
 logo_dark = "images/logo-dark.png"
 # Meta data
 description = "This is meta description"
-author = "somrat"
+author = "zain"
 # contact form action
 contact_form_action = "" # contact form works with https://formspree.io
 # Google Analitycs
@@ -96,25 +96,14 @@ enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
-[[params.social]]
-icon = "fa-facebook-f" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://www.facebook.com/somrat.mac"
-
-[[params.social]]
-icon = "fa-twitter" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://twitter.com/somrat_37"
-
-[[params.social]]
-icon = "fa-instagram" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://www.instagram.com/somrat_sorkar/"
 
 [[params.social]]
 icon = "fa-github" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://github.com/Somrat37"
+link = "https://github.com/zainyousef"
 
 [[params.social]]
 icon = "fa-linkedin" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://www.linkedin.com/in/somrat-sorkar-872581158/"
+link = "https://www.linkedin.com/in/zainyousef/"
 
 
 ################################### English language #####################################
@@ -127,13 +116,3 @@ home = "Home"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
 
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
