@@ -115,16 +115,16 @@ service:
 call_to_action:
   enable : true
   bg_image : "images/backgrounds/need-service.jpg"
-  title : "NEED A SERVICE?"
+  title : "Any questions?"
   button:
     enable : true
-    label : "SAY HELLO!"
+    label : "Contact me!"
     link : "#contact"
 
 
 ############################# portfolio ################################
 portfolio:
-  enable : true
+  enable : false
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
@@ -220,7 +220,7 @@ portfolio:
 
 ################################# Testimonial #########################33
 testimonial:
-  enable : true
+  enable : false
   title : "TESTIMONIALS"
   testimonial_slider:
     # slider item loop
@@ -247,7 +247,7 @@ testimonial:
 
 ######################### funfacts #############################3
 funfacts:
-  enable : true
+  enable : false
   funfacts_list:
     # funfacts item loop
     - name : "HANDS TO WORK"
