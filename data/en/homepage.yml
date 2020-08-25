@@ -32,7 +32,7 @@ about:
   enable : true
   image : "images/backgrounds/portrait.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "Hello I'm Zain. I am currently a student at University College London reading a BSc in Statistics. I have a strong interest in pursuing a career in Data Analysis and Data Science. I have created this website using R Markdown, Hugo and Netlify. The purpose of this website is to showcase some of the projects I have worked on and am currently working on.s I appreciate you viewing my webpage - if you'd like to gain further insight into my education and experience, please see my CV below.😊"
+  content : "Hello I'm Zain. I am currently a student at University College London reading a BSc in Statistics. I have a strong interest in pursuing a career in Data Analysis and Data Science. I have created this website using R Markdown, Hugo and Netlify. The purpose of this website is to showcase some of the projects I have worked on and am currently working on. I appreciate you viewing my webpage - if you'd like to gain further insight into my education and experience, please see my CV below.😊"
   # button
   button:
     enable : true
@@ -66,54 +66,50 @@ experience:
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "SOFTWARE"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      parcentage : "98%"
+    - name : "R & R Markdown"
+      parcentage : "80%"
       
     # skill item loop
-    - name : "Graphic Design"
-      parcentage : "85%"
+    - name : "SIMUL8 (DES Modelling)"
+      parcentage : "60%"
       
     # skill item loop
-    - name : "Database Management"
+    - name : "Microsoft Excel"
       parcentage : "90%"
       
     # skill item loop
-    - name : "Wordpress"
-      parcentage : "70%"
+    - name : "JavaScript"
+      parcentage : "30%"
+      
+    # skill item loop
+    - name : "Microsoft SQL Server"
+      parcentage : "30%"
 
 
 ################################### Service ##############################3
 service:
   enable : true
-  title : "SERVICES"
+  title : "SKILLS"
   service_list:
     # service item loop
     - name : "R"
       image : "images/icons/web-development.png"
       
     # service item loop
-    - name : "Graphic Design"
-      image : "images/icons/graphic-design.png"
-      
-    # service item loop
-    - name : "Database Management"
+    - name : "SQL Server"
       image : "images/icons/dbms.png"
       
     # service item loop
-    - name : "Software Development"
+    - name : "JavaScript"
       image : "images/icons/software-development.png"
       
     # service item loop
-    - name : "Digital Marketing"
+    - name : "Data Analysis & Visualisation"
       image : "images/icons/marketing.png"
       
-    # service item loop
-    - name : "Mobile App Development"
-      image : "images/icons/mobile-app.png"
-
 
 ############################## call to action #########################
 call_to_action:
