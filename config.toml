@@ -78,7 +78,7 @@ weight = 5
 logo_light = "images/logo.png"
 logo_dark = "images/logo.png"
 # Meta data
-description = "This is meta description"
+description = "Website by Zain"
 author = "zain"
 # contact form action
 contact_form_action = "" # contact form works with https://formspree.io
