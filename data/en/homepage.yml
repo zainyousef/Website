@@ -9,8 +9,8 @@ hero:
 
   # slider background image loop
   slider_image:
-    - "images/slider/slider-1.jpg"
-    - "images/slider/slider-3.jpg"
+    - "images/slider/slider-4.jpg"
+    - "images/slider/slider-5.jpg"
 
   # button
   button:
