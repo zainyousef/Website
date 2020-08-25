@@ -1,16 +1,14 @@
 ########################## hero area ##########################
 hero:
-  title : "I'm Somrat Sorkar"
+  title : "I'm Zain Yousef"
 
   # animated text loop
   occupations:
-    - "Web Developer"
-    - "Graphic Designer"
-    - "Database Manager"
+    - "Statistics Student @ UCL"
+    - "Data Analyst"
 
   # slider background image loop
   slider_image:
-    - "images/slider/slider-1.jpg"
     - "images/slider/slider-2.jpg"
     - "images/slider/slider-3.jpg"
 
@@ -26,7 +24,7 @@ fullscreen_nav:
   enable : true
   bg_image : "images/backgrounds/full-nav-bg.jpg"
   first_name : "MacGyver"
-  last_name : "SOMRAT"
+  last_name : "YOUSEF"
   
 
 ########################### About ##################################
@@ -34,12 +32,12 @@ about:
   enable : true
   image : "images/backgrounds/portrait.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  content : "Hello I'm Zain. I am currently a student at University College London reading a BSc in Statistics. I have a strong interest in pursuing a career in Data Analysis and Data Science. I have created this website using R Markdown, Hugo and Netlify. The purpose of this website is to showcase some of the projects I have worked on and am currently working on.s I appreciate you viewing my webpage - if you'd like to gain further insight into my education and experience, please see my CV below.😊"
   # button
   button:
     enable : true
     label : "DOWNLOAD MY CV"
-    link : "#" # you can put your cv in static folder and give the path here.
+    link : "/CV.pdf" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
@@ -47,22 +45,22 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Data Analyst"
+      company : "CTM UHB"
+      duration : "2020-"
+      content : "Responsible for reporting and analysing various areas surrounding COVID-19 in CTM and Wales including COVID antigen & antibody testing and mortality."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Data Analyst"
+      company : "C&V UHB"
+      duration : "2018-2019"
+      content : "Numerous projects including: creating a Discrete Event Simulation model for an upcoming major trauma centre in Cardiff and creating an automated system for reporting mortality for C&V."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "Statistician"
+      company : "MYPINPAD"
+      duration : "2018-2019"
+      content : "Undertook a project assisting MYPINPAD’s securities and compliance departments to achieve a Payment Card Industry Data Security Standard (PCI) certification for MYPINPAD’s mobile payment authentication solution to allow the service to go to market."
 
 
 ############################### Skill #################################
@@ -226,7 +224,7 @@ portfolio:
 
 ################################# Testimonial #########################33
 testimonial:
-  enable : true
+  enable : tfals
   title : "TESTIMONIALS"
   testimonial_slider:
     # slider item loop
