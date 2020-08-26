@@ -46,13 +46,13 @@ experience:
   experience_list:
     # experience item loop
     - name : "Data Analyst"
-      company : "CTM UHB"
+      company : "Cwm Taf Morgannwg University Health Board"
       duration : "2020-"
       content : "Responsible for reporting and analysing various areas surrounding COVID-19 in CTM and Wales including COVID antigen & antibody testing and mortality."
       
     # experience item loop
     - name : "Data Analyst"
-      company : "C&V UHB"
+      company : "Cardiff & Vale University Health Board"
       duration : "2018-2019"
       content : "Numerous projects including: creating a Discrete Event Simulation model for an upcoming major trauma centre in Cardiff and creating an automated system for reporting mortality for C&V."
       
