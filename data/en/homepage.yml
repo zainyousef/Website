@@ -22,7 +22,7 @@ hero:
 ####################### Full screen navigation #####################
 fullscreen_nav:
   enable : true
-  bg_image : "images/backgrounds/full-nav-bg.jpg"
+  bg_image : "images/backgrounds/black.jpg"
   first_name : "Zain"
   last_name : "Yousef"
   
@@ -32,7 +32,7 @@ about:
   enable : true
   image : "images/backgrounds/portrait.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "Hello I'm Zain. I am currently a student at University College London reading a BSc in Statistics. I have a strong interest in pursuing a career in Data Analysis and Data Science. I have created this website using R Markdown, Hugo and Netlify. The purpose of this website is to showcase some of the projects I have worked on and am currently working on. I appreciate you viewing my webpage - if you'd like to gain further insight into my education and experience, please see my CV below.😊"
+  content : "Hello I'm Zain. I am currently a final year student at University College London reading a BSc in Statistics. I have a strong interest in pursuing a career in Data Analysis and Data Science. I have created this website using R Markdown, Hugo and Netlify. The purpose of this website is to showcase some of the projects I have worked on and am currently working on. I appreciate you viewing my webpage - if you'd like to gain further insight into my education and experience, please see my CV below.😊"
   # button
   button:
     enable : true
