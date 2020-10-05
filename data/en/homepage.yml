@@ -23,8 +23,8 @@ hero:
 fullscreen_nav:
   enable : true
   bg_image : "images/backgrounds/black.jpg"
-  first_name : "Zain"
-  last_name : "Yousef"
+  first_name : ""
+  last_name : "Zain"
   
 
 ########################### About ##################################
@@ -81,7 +81,7 @@ skill:
       parcentage : "90%"
       
     # skill item loop
-    - name : "JavaScript"
+    - name : "Java"
       parcentage : "30%"
       
     # skill item loop
