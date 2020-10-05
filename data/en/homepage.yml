@@ -39,7 +39,7 @@ about:
     label : "DOWNLOAD MY CV"
     link : "/CV.pdf" # you can put your cv in static folder and give the path here.
 
-###########################3 Experience ##############################
+########################### Experience ##############################
 experience:
   enable : true
   title : "EXPERIENCE"
@@ -47,19 +47,19 @@ experience:
     # experience item loop
     - name : "Data Analyst"
       company : "Cwm Taf Morgannwg University Health Board"
-      duration : "2020-"
+      duration : "(07/2020 - )"
       content : "Responsible for reporting and analysing various areas surrounding COVID-19 in CTM and Wales including COVID antigen & antibody testing and mortality."
       
     # experience item loop
     - name : "Data Analyst"
       company : "Cardiff & Vale University Health Board"
-      duration : "2018-2019"
+      duration : "(07/2018 - 09/2019)"
       content : "Numerous projects including: creating a Discrete Event Simulation model for an upcoming major trauma centre in Cardiff and creating an automated system for reporting mortality for C&V."
       
     # experience item loop
     - name : "Statistician"
       company : "MYPINPAD"
-      duration : "2018-2019"
+      duration : "(05/2019 - 11/2019)"
       content : "Undertook a project assisting MYPINPAD’s securities and compliance departments to achieve a Payment Card Industry Data Security Standard (PCI) certification for MYPINPAD’s mobile payment authentication solution to allow the service to go to market."
 
 
@@ -103,7 +103,7 @@ service:
       image : "images/icons/dbms.png"
       
     # service item loop
-    - name : "JavaScript"
+    - name : "Statistics"
       image : "images/icons/software-development.png"
       
     # service item loop
@@ -113,7 +113,7 @@ service:
 
 ############################## call to action #########################
 call_to_action:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/need-service.jpg"
   title : "Any questions?"
   button:
@@ -124,7 +124,7 @@ call_to_action:
 
 ############################# portfolio ################################
 portfolio:
-  enable : true
+  enable : false
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
@@ -190,4 +190,4 @@ funfacts:
 ############################## contact ###########################
 contact:
   enable : true
-  title : "SAY HELLO!"
+  title : "Contact Me!"
